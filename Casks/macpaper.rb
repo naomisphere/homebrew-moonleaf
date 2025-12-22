@@ -1,5 +1,5 @@
 cask "macpaper" do
-  version "2.1.1"
+  version "2.2.0"
   sha256 "3f1387ccbc31e40a7cfaf61cd3b0e53645db2c15700516027e1f7c4f4596350a"
 
   url "https://github.com/naomisphere/macpaper/releases/download/v#{version}/macpaper.dmg"
