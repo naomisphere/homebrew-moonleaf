@@ -1,3 +1,3 @@
 ```
-brew install --cask naomisphere/macpaper/macpaper --no-quarantine
+brew install --cask naomisphere/moonleaf/moonleaf --no-quarantine
 ```
